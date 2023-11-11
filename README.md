@@ -1,31 +1,31 @@
-<img src="./_assets/readme-cover.jpeg" alt="Deva Program: Empowering women, coding the future!">
+<img src="./assets/readme-cover.jpeg" alt="Programa Deva: Empoderando mulheres, codificando o futuro!">
 
-# <Devª> Program
+# Programa <Devª>
 
-Company B3 selection program in partnership with Ada for people who identify as women with the possibility of being hired. There are 40 selections, where 30% are reserved for black or mixed-race women.
+Programa de seleção da empresa B3 em parceria com a Ada para pessoas que se identificam como mulheres com possibilidade de contratação. São 40 vagas, onde 30% das vagas são destinadas à pretas ou pardas.
 
-## Steps
+## Etapas
 
-The program has two development tracks, Back-end and DevOps, and does not require prior knowledge in the area. Both trails have 4 stages after registration:
+O programa possui duas trilhas de desenvolvimento, Back-end e DevOps, e não exige conhecimento prévio na área. Ambas as trilhas possuem 4 etapas após a inscrição:
 
-→ Online Coursein 4 modules
+→ Curso Online de 4 módulos
 
-→ Tech Aptitude Test
+→ Teste de Aptidão Tech
 
-→ Group Case Resolution
+→ Resolução de Case em grupo
 
 → Coding Tank
 
-## DevOps Trail
+## Trilha DevOps
 
-→ Linux Operating System
+→ Sistema Operacional Linux
 
-→ Versioning and Markup Files
+→ Versionamento e Arquivos de Marcação
 
-→ Containerization
+→ Conteinerização
 
-→ CI and CD pipelines
+→ Pipelines de CI e CD
 
 → Observability
 
-→ Cloud Services
+→ Serviços Cloud
